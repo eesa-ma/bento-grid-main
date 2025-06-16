@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- **Solution URL:** [Add your solution URL here](https://your-solution-url.com)
-- **Live Site URL:** [Add your live site link here](https://your-live-site-url.com)
+- **Solution URL:** https://github.com/eesa-ma/bento-grid-main
+- **Live Site URL:** https://eesa-ma.github.io/bento-grid-main/
 
 ---
 
